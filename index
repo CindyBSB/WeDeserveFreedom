@@ -1,0 +1,67 @@
+ #index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WeDeserve Freedom</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#team">Team</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="about">
+      <h1>Welcome to WeDeserve Freedom</h1>
+      <p>Our platform is dedicated to empowering women affected by domestic violence and providing them with the support they need to break free from abusive relationships through a process that combines mental health and financial education.</p>
+    </section>
+    <section id="features">
+      <h2>Key Features</h2>
+      <ul>
+        <li>Secure and confidential platform</li>
+        <li>Access to mental health resources</li>
+        <li>Educational resources for financial empowerment</li>
+        <li>Community support and networking</li>
+        <li>Verified professionals for legal and social assistance</li>
+      </ul>
+    </section>
+    <section id="vision">
+      <h2>Our Vision</h2>
+      <p>At WeDeserve Freedom, we envision a world where every woman has the opportunity to break free from the cycle of domestic violence. By utilizing the Web3 infrastructure and the power of blockchain, we aim to create a decentralized platform that ensures privacy, security, and autonomy for our users.</p>
+    </section>
+    <section id="blockchain">
+      <h2>How Blockchain Transforms our Platform</h2>
+      <p>Blockchain technology forms the foundation of our platform, enabling us to establish a secure and transparent environment for our users. By leveraging blockchain in the Web3 ecosystem, we can provide tamper-proof record-keeping, verifiable identities, and privacy-enhancing features to ensure the confidentiality and integrity of user data.</p>
+    </section>
+    <section id="team">
+      <h2>Our Team</h2>
+      <p>We have a dedicated team of professionals committed to making a positive impact in the lives of women affected by domestic violence.</p>
+      <ul>
+        <li>Founder: [Ligia Paraiso and Stephane Auger]</li>
+        <li>Developer: [Non]</li>
+        <li>Designer: [Non]</li>
+        <li>Marketing Specialist: [Non]</li>
+      </ul>
+    </section>
+less
+Copy code
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>If you have any questions or inquiries, please feel free to reach out to us:</p>
+  <ul>
+    <li>Email: [ligia@wdfreedom.com or stephane@wdfreedom.com]</li>
+    <li>Phone: [+330785855736]</li>
+    <li>Address: [France]</li>
+  </ul>
+</section>
+  </main>
+</body>
+</html>
